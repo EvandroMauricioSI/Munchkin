@@ -1,0 +1,16 @@
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\bin\Debug\net8.0\Munchkin.ApplicationService.deps.json
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\bin\Debug\net8.0\Munchkin.ApplicationService.dll
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\bin\Debug\net8.0\Munchkin.ApplicationService.pdb
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\bin\Debug\net8.0\Munchkin.Domain.dll
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\bin\Debug\net8.0\Munchkin.Domain.pdb
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\obj\Debug\net8.0\Munchkin.ApplicationService.csproj.AssemblyReference.cache
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\obj\Debug\net8.0\Munchkin.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\obj\Debug\net8.0\Munchkin.ApplicationService.AssemblyInfoInputs.cache
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\obj\Debug\net8.0\Munchkin.ApplicationService.AssemblyInfo.cs
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\obj\Debug\net8.0\Munchkin.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\obj\Debug\net8.0\Munchkin.ApplicationService.sourcelink.json
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\obj\Debug\net8.0\Munchkin.50B5BAD8.Up2Date
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\obj\Debug\net8.0\Munchkin.ApplicationService.dll
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\obj\Debug\net8.0\refint\Munchkin.ApplicationService.dll
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\obj\Debug\net8.0\Munchkin.ApplicationService.pdb
+C:\Faculdade\Munchkin\Munchkin.ApplicationService\obj\Debug\net8.0\ref\Munchkin.ApplicationService.dll

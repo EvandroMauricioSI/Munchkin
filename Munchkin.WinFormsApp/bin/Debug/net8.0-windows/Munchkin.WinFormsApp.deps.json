@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Munchkin.WinFormsApp/1.0.0": {
+        "dependencies": {
+          "Munchkin.ApplicationService": "1.0.0",
+          "Munchkin.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Munchkin.WinFormsApp.dll": {}
+        }
+      },
+      "Munchkin.ApplicationService/1.0.0": {
+        "dependencies": {
+          "Munchkin.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Munchkin.ApplicationService.dll": {}
+        }
+      },
+      "Munchkin.Domain/1.0.0": {
+        "runtime": {
+          "Munchkin.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Munchkin.WinFormsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Munchkin.ApplicationService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Munchkin.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

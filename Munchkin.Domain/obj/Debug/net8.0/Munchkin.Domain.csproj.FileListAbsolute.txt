@@ -1,0 +1,12 @@
+C:\Faculdade\Munchkin\Munchkin.Domain\bin\Debug\net8.0\Munchkin.Domain.deps.json
+C:\Faculdade\Munchkin\Munchkin.Domain\bin\Debug\net8.0\Munchkin.Domain.dll
+C:\Faculdade\Munchkin\Munchkin.Domain\bin\Debug\net8.0\Munchkin.Domain.pdb
+C:\Faculdade\Munchkin\Munchkin.Domain\obj\Debug\net8.0\Munchkin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\Munchkin\Munchkin.Domain\obj\Debug\net8.0\Munchkin.Domain.AssemblyInfoInputs.cache
+C:\Faculdade\Munchkin\Munchkin.Domain\obj\Debug\net8.0\Munchkin.Domain.AssemblyInfo.cs
+C:\Faculdade\Munchkin\Munchkin.Domain\obj\Debug\net8.0\Munchkin.Domain.csproj.CoreCompileInputs.cache
+C:\Faculdade\Munchkin\Munchkin.Domain\obj\Debug\net8.0\Munchkin.Domain.sourcelink.json
+C:\Faculdade\Munchkin\Munchkin.Domain\obj\Debug\net8.0\Munchkin.Domain.dll
+C:\Faculdade\Munchkin\Munchkin.Domain\obj\Debug\net8.0\refint\Munchkin.Domain.dll
+C:\Faculdade\Munchkin\Munchkin.Domain\obj\Debug\net8.0\Munchkin.Domain.pdb
+C:\Faculdade\Munchkin\Munchkin.Domain\obj\Debug\net8.0\ref\Munchkin.Domain.dll
